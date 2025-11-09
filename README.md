@@ -1,4 +1,4 @@
-# Master’s Thesis: Impact of External Interventions on Governance Outcomes	Aug 2024 - Dec 2024
+# Master’s Thesis: Impact of External Interventions on Governance Outcomes	                          Aug 2024 - Dec 2024
 
 - Analyzed the impact of external interventions on state legitimacy, ​​political stability and rule of law in 30 countries (15 Fragile and 15 Non-Fragile) from 2006 to 2022.
   
