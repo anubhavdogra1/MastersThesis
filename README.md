@@ -3,7 +3,7 @@
 
 - Analyzed the impact of external interventions on state legitimacy, ​​political stability and rule of law in 30 countries (15 Fragile and 15 Non-Fragile) from 2006 to 2022.
   
-- Executed data mining and manipulation on a substantial dataset (approximately 7.5 GB) utilizing SQL, Excel, and Python.
+- Executed data mining and manipulation on a substantial dataset (approximately 7.5 GB) utilizing Excel, and Python.
    
 - Created a summary statistics table to evaluate the count, mean, standard deviation, minimum, and maximum values of the variables.
    
