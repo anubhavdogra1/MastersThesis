@@ -1,10 +1,8 @@
-# Impact of External Interventions on Governance Outcomes
-## Aug 2024 - Dec 2024
+# The Impact of External Interventions on Governance Outcomes
 
 - Cleaned and extracted a large dataset of 7.5 GB using the pandas library, integrating datasets from Fragile States Index (FSI) and World Bank Group organisations. Lastly, the selected dataset includes 30 countries (15 fragile and 15 non-fragile) from 2006 to 2022.
 
-- Developed three Hypotheses suggesting that “External Intervention” has negative relationships with
-H1 - “State Legitimacy”, H2 - “Political Stability & Absence of Violence”, H3 - “Rule of Law”.
+- Developed three Hypotheses suggesting that “External Intervention” has negative relationships with H1 - “State Legitimacy”, H2 - “Political Stability & Absence of Violence”, H3 - “Rule of Law”.
 
 - Created a summary statistics table, highlighting significant variability in governance and intervention levels (e.g., “External Intervention” exhibited a wide range, from a min. value 0.3 to a max. value 10, with a median of 5.7 and a standard deviation of 3.66).
 
