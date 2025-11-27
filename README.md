@@ -1,4 +1,4 @@
-## The Impact of External Interventions on Governance Outcomes in Fragile and Non-Fragile States
+## Project - The Impact of External Interventions on Governance Outcomes in Fragile and Non-Fragile States
 
 - Extracted and cleaned a **7.5 GB** raw dataset, integrating Fragile States Index and World Bank data to create a final dataset of **30 countries** (15 fragile, 15 non-fragile) from 2006-2022 (**pandas**).
 
